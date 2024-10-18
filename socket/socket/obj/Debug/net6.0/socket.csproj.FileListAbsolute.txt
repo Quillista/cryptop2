@@ -1,0 +1,17 @@
+C:\Users\Factin\Pictures\socket\socket\bin\Debug\net6.0\socket.exe
+C:\Users\Factin\Pictures\socket\socket\bin\Debug\net6.0\socket.deps.json
+C:\Users\Factin\Pictures\socket\socket\bin\Debug\net6.0\socket.runtimeconfig.json
+C:\Users\Factin\Pictures\socket\socket\bin\Debug\net6.0\socket.dll
+C:\Users\Factin\Pictures\socket\socket\bin\Debug\net6.0\socket.pdb
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.AssemblyInfoInputs.cache
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.AssemblyInfo.cs
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.csproj.CoreCompileInputs.cache
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.dll
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\refint\socket.dll
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.pdb
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.genruntimeconfig.cache
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\ref\socket.dll
+C:\Users\Factin\Pictures\socket\socket\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.csproj.AssemblyReference.cache
+C:\Users\Factin\Pictures\socket\socket\obj\Debug\net6.0\socket.csproj.Up2Date
